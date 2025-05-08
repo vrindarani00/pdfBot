@@ -1,4 +1,3 @@
-
 # PDFbot
 
 A simple Streamlit app that lets you upload PDF files, build a FAISS vector index over their text using OpenAI embeddings, and ask questions about the content via a chat interface.
@@ -33,7 +32,7 @@ A simple Streamlit app that lets you upload PDF files, build a FAISS vector inde
    ```bash
    git clone https://github.com/your-username/gpt-pdf-chatbot.git
    cd gpt-pdf-chatbot
-````
+   ````
 
 2. **Create & activate a virtual environment**
 
